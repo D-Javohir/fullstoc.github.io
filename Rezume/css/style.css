@@ -527,7 +527,7 @@ section .ism {
 .social {
     justify-content: right;
     width: 30%;
-    margin-left: 6rem;
+/*     margin-left: 6rem; */
     margin-top: 1rem;
 }
 
